@@ -26,3 +26,6 @@ docker-compose up -d
 ```
 docker-compose down
 ```
+
+## Anmerkung
+Diese Software wurde von [Leon Herrmann](https://github.com/leon-m-herrmann) im Rahmen seiner Bachelorarbeit entwickelt.
